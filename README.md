@@ -1,0 +1,28 @@
+# Thomas Scheiber
+
+Automation and AI tooling for internal operations, based in Vienna.
+
+In Refurbed's two-person IT team I build internal automation, from employee onboarding to an AI pull-request reviewer. Those tools ship through GitLab CI/CD to Google Cloud Run. I have also built websites and web apps as a freelancer since 2018, and I'm studying for an MSc in Software Engineering at TU Wien.
+
+I'm open to AI and automation engineering roles in Vienna or remote.
+
+## Work you can try
+
+My work at Refurbed lives in private company repositories. I rebuilt eight of those internal tools as demos with fictional data, and they run in the browser at [thomasscheiber.com](https://thomasscheiber.com).
+
+## Projects
+
+| Project | What it does | Built with |
+| --- | --- | --- |
+| [EuropeTalks member platform](https://github.com/t-scheiber/europetalksWebsite) ([live](https://europetalks.eu)) | Multilingual website and member services for a European exchange community. One login covers the website and the member cloud, in 13 languages. | Next.js, TypeScript, Clerk, Prisma, PostgreSQL |
+| [Villa Claudia guest documents](https://github.com/t-scheiber/villaclaudiaupload) ([live](https://documents.villa-claudia.eu)) | Pre-arrival guidance and document handling for a holiday rental's guests, on top of its WordPress booking system. | Next.js, WordPress, PHP |
+| [AI video generation tool](https://github.com/t-scheiber/aivideogeneration) ([live](https://aivideogeneration.thomasscheiber.com)) | Generates hero-section videos through three provider APIs and ten models, with a cost estimate before each run. | Next.js, TypeScript |
+| [Mayr Dach demo website](https://github.com/t-scheiber/mayr-dach) ([demo](https://mayr-dach.thomasscheiber.com)) | Demo website for a roofing and facade company in Saalfelden, Austria, with German and English content. | Next.js, PostgreSQL, Prisma |
+| [Rock paper scissors](https://github.com/t-scheiber/rockpaperscissors) ([live](https://rock-paper-scissors.thomasscheiber.com)) | My bachelor project. Play by mouse, keyboard or webcam hand gestures, recognised in the browser. | Next.js, TensorFlow.js |
+| [FinanceApp](https://github.com/t-scheiber/financeapp) | Market data, news sentiment and portfolio tools in one dashboard. | Next.js, Prisma, SQLite |
+
+## Contact
+
+- Email: [mail@thomasscheiber.com](mailto:mail@thomasscheiber.com)
+- LinkedIn: [in/thomas-scheiber](https://www.linkedin.com/in/thomas-scheiber/)
+- CV: [two pages, PDF](https://thomasscheiber.com/files/pdf/ScheiberThomasCV.pdf)
