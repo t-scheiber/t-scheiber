@@ -14,6 +14,7 @@ My work at Refurbed lives in private company repositories. I rebuilt eight of th
 
 | Project | What it does | Built with |
 | --- | --- | --- |
+| [Wohnly](https://github.com/t-scheiber/wohnly-app) ([site](https://wohnly.app)) | Household app for shared expenses, chores, shopping lists and calendars, with end-to-end encryption. It started as a progressive web app, and I rebuilt it as a native app for iOS, Android, macOS and Windows to learn what publishing an app takes. | Expo, React Native, Tauri, Hono, Prisma, PostgreSQL |
 | [EuropeTalks member platform](https://github.com/t-scheiber/europetalksWebsite) ([live](https://europetalks.eu)) | Multilingual website and member services for a European exchange community. One login covers the website and the member cloud, in 13 languages. | Next.js, TypeScript, Clerk, Prisma, PostgreSQL |
 | [Villa Claudia guest documents](https://github.com/t-scheiber/villaclaudiaupload) ([live](https://documents.villa-claudia.eu)) | Pre-arrival guidance and document handling for a holiday rental's guests, on top of its WordPress booking system. | Next.js, WordPress, PHP |
 | [AI video generation tool](https://github.com/t-scheiber/aivideogeneration) ([live](https://aivideogeneration.thomasscheiber.com)) | Generates hero-section videos through three provider APIs and ten models, with a cost estimate before each run. | Next.js, TypeScript |
