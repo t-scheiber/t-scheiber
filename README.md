@@ -23,7 +23,10 @@ My work at Refurbed lives in private company repositories. I rebuilt eight of th
 | [TV Home](https://github.com/t-scheiber/tv-home) | Custom home screen and Home Assistant panel for an unrooted LG webOS 6 TV. Home Assistant swaps it in whenever LG's own home screen appears. | JavaScript, webOS, Home Assistant |
 | [Mayr Dach demo website](https://github.com/t-scheiber/mayr-dach) ([demo](https://mayr-dach.thomasscheiber.com)) | Demo website for a roofing and facade company in Saalfelden, Austria, with German and English content. | Next.js, PostgreSQL, Prisma |
 | [Rock paper scissors](https://github.com/t-scheiber/rockpaperscissors) ([live](https://rock-paper-scissors.thomasscheiber.com)) | My bachelor project. Play by mouse, keyboard or webcam hand gestures, recognised in the browser. | Next.js, TensorFlow.js |
-| [FinanceApp](https://github.com/t-scheiber/financeapp) | Market data, news sentiment and portfolio tools in one dashboard. | Next.js, Prisma, SQLite |
+| [FinanceApp](https://github.com/t-scheiber/financeapp) ([demo](https://finance.thomasscheiber.com/auth/signin?demo=1)) | Market data, news sentiment and portfolio tools in one dashboard. The demo signs you in as a read-only user with fictional data. | Next.js, Better Auth, Prisma, SQLite |
+| [Drone document wallet](https://github.com/t-scheiber/droneapp) ([live](https://drone.thomasscheiber.com)) | Phone-friendly viewer for a drone pilot's papers when authorities ask for them. The passphrase is checked on the server; `demo` opens fictional samples. | Next.js, TypeScript |
+
+Smaller course and practice projects, including my 2020 PHP exercises, are listed with live links on [thomasscheiber.com/codingprojects](https://thomasscheiber.com/codingprojects).
 
 ## Contact
 
