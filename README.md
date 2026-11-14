@@ -4,8 +4,6 @@ Automation and AI tooling for internal operations, based in Vienna.
 
 In Refurbed's two-person IT team I build internal automation, from employee onboarding to an AI pull-request reviewer. Those tools ship through GitLab CI/CD to Google Cloud Run. I have also built websites and web apps as a freelancer since 2018, and I'm studying for an MSc in Software Engineering at TU Wien.
 
-I'm open to AI and automation engineering roles in Vienna or remote.
-
 ## Work you can try
 
 My work at Refurbed lives in private company repositories. I rebuilt eight of those internal tools as demos with fictional data, and they run in the browser at [thomasscheiber.com](https://thomasscheiber.com).
