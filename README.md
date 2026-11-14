@@ -31,5 +31,4 @@ Smaller course and practice projects, including my 2020 PHP exercises, are liste
 ## Contact
 
 - Email: [mail@thomasscheiber.com](mailto:mail@thomasscheiber.com)
-- LinkedIn: [in/thomas-scheiber](https://www.linkedin.com/in/thomas-scheiber/)
-- CV: [two pages, PDF](https://thomasscheiber.com/files/pdf/ScheiberThomasCV.pdf)
+- LinkedIn: [thomas-scheiber](https://www.linkedin.com/in/thomas-scheiber/)
